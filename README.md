@@ -16,5 +16,5 @@
 
 > Markdown strikes a balance between readability and ease of use, making it a popular choice for formatting text in a wide variety of contexts.
 
-![Motivation](![image](https://github.com/user-attachments/assets/10741437-fae1-485c-8f3b-e41d92f5cf88)
-)
+![Motivation]([![image](https://github.com/user-attachments/assets/10741437-fae1-485c-8f3b-e41d92f5cf88)
+)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgogetsecure.com%2Fcyber-security-hacker-quotes%2F&psig=AOvVaw0MGBuykn9EqE472tnOHEnA&ust=1723627599004000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiS6MbT8YcDFQAAAAAdAAAAABAE))
