@@ -1,3 +1,8 @@
-### CyberSprint_First
+# Intro to Markdown
+## Basics
+### Markdown text editors
 
-![Markdown Text Editor](https://dillinger.io/)
+[Dillinger](https://dillinger.io/)
+
+- Find mor infor on:
+-   [OpenAI](https://www.openai.com)
